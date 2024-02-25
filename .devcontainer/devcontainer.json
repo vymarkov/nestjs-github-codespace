@@ -8,6 +8,15 @@
 	"service": "app",
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 
+	"customizations": {
+		"codespaces": {
+			"openFiles": [
+				"README.md",g
+				"src/main.ts"
+			]
+		}
+	},
+
 	// Use this environment variable if you need to bind mount your local source code into a new container.
 	"remoteEnv": {
 		"LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
