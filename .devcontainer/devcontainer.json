@@ -11,7 +11,7 @@
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
-				"README.md",g
+				"README.md",
 				"src/main.ts"
 			]
 		}
